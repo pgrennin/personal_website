@@ -6,7 +6,7 @@
 name: static-site
 type: Static Site
 files:
-  - source: assets
+  - source: jekyllsite/_site
     recursive: true
 
 # You can override any of the values defined above by environment.
