@@ -19,4 +19,4 @@ Uses aws copilot static site.
 
 To deploy rebuild the static files then deploy:
 
-`cd jekyllsite && jekyll build && cd .. & copilot deploy`
+`jekyll build; copilot deploy`
