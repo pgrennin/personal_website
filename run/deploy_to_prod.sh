@@ -10,7 +10,7 @@ jekyll_dir="$parent_dir/jekyllsite"
 echo "Building the site in $jekyll_dir"
 
 cd $jekyll_dir
-jekyll build jekyllsite;
+JEKYLL_ENV=production bundle exec jekyll build
 
 echo "Deploying the site to AWS"
 cd $parent_dir
