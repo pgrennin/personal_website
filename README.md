@@ -17,4 +17,6 @@ Since Jekyll is a static site generator, it has to build the site before we can 
 ## production
 Uses aws copilot static site.
 
-To deploy rebuild the static files and deploy see scripts in ./run:
+To deploy rebuild the static files and run deploy script in `./run`:
+
+`bash run/deploy_to_prod.sh`
