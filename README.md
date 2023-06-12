@@ -2,8 +2,7 @@
 
 ## About 
 
-This site is a static website that uses Jekyll to generate static assets
-
+This site is a static website based off the Jekyll [cvless](https://github.com/piazzai/cvless) theme.
 
 Since Jekyll is a static site generator, it has to build the site before we can view it. Run either of the following commands to build your site:
 
@@ -15,7 +14,7 @@ Since Jekyll is a static site generator, it has to build the site before we can 
 
 
 ## production
-Uses aws copilot static site.
+Uses AWS copilot for deploying to production and the 'static-site' as the sevice type.  [AWS Copilot CLI](https://aws.github.io/copilot-cli/docs/overview/)
 
 To deploy rebuild the static files and run deploy script in `./run`:
 
