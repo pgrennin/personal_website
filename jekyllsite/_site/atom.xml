@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>cvless</title>
+ <title>Patrick Grenning</title>
  <link href="/atom.xml" rel="self"/>
- <link href="https://cvless.netlify.app/"/>
- <updated>2023-06-10T12:15:03-05:00</updated>
- <id>https://cvless.netlify.app</id>
+ <link href="patrickgrenning.com/"/>
+ <updated>2023-06-12T08:28:54-05:00</updated>
+ <id>patrickgrenning.com</id>
  <author>
-   <name>Place Holder</name>
-   <email>username@domain.com</email>
+   <name>Patrick Grenning</name>
+   <email>pgrennin@gmail.com</email>
  </author>
 
  
  <entry>
    <title>What Jekyll is</title>
-   <link href="https://cvless.netlify.app/2022/09/01/whats-jekyll/"/>
+   <link href="patrickgrenning.com/2022/09/01/whats-jekyll/"/>
    <updated>2022-09-01T00:00:00-05:00</updated>
-   <id>https://cvless.netlify.app/2022/09/01/whats-jekyll</id>
+   <id>patrickgrenning.com/2022/09/01/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/jekyll/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -29,9 +29,9 @@
  
  <entry>
    <title>Example content</title>
-   <link href="https://cvless.netlify.app/2022/08/15/example-content/"/>
+   <link href="patrickgrenning.com/2022/08/15/example-content/"/>
    <updated>2022-08-15T00:00:00-05:00</updated>
-   <id>https://cvless.netlify.app/2022/08/15/example-content</id>
+   <id>patrickgrenning.com/2022/08/15/example-content</id>
    <content type="html">&lt;p class=&quot;message&quot;&gt;&lt;strong&gt;Howdy!&lt;/strong&gt; This is an example blog post that shows several types of &lt;abbr&gt;html&lt;/abbr&gt; content supported in this theme.&lt;/p&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
@@ -230,9 +230,9 @@
  
  <entry>
    <title>On the use of icons</title>
-   <link href="https://cvless.netlify.app/2022/08/01/on-the-use-of-icons/"/>
+   <link href="patrickgrenning.com/2022/08/01/on-the-use-of-icons/"/>
    <updated>2022-08-01T00:00:00-05:00</updated>
-   <id>https://cvless.netlify.app/2022/08/01/on-the-use-of-icons</id>
+   <id>patrickgrenning.com/2022/08/01/on-the-use-of-icons</id>
    <content type="html">&lt;p&gt;The icons used throughout this theme are partly custom-made, and partly come from the &lt;a href=&quot;https://iconoir.com/&quot;&gt;Iconoir&lt;/a&gt; library. More can be created or downloaded from the Iconoir website as svg files, and saved in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/svg&lt;/code&gt; for use in your website.&lt;/p&gt;
 
 &lt;p&gt;Here’s an overview of icons that already ship with the theme.&lt;/p&gt;

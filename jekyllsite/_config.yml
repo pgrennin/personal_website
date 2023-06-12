@@ -1,20 +1,20 @@
 # site settings
 
-title: cvless
-description: Jekyll theme for a beautiful online CV
-taglong: Jekyll theme for a beautiful online CV
-tagshort: Jekyll theme
-url: https://cvless.netlify.app
+title: Patrick Grenning
+description:
+taglong:
+tagshort:
+url: patrickgrenning.com
 baseurl: ""
 permalink: pretty
-repo: https://github.com/username/username.github.io
+repo: https://github.com/pgrennin/personal_website
 
 # author settings
 
 author:
-  name: Place Holder
-  email: username@domain.com
-photo: /assets/photo.jpg
+  name: Patrick Grenning
+  email: pgrennin@gmail.com
+photo: /assets/profile.png
 
 # build settings
 

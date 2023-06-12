@@ -1,1 +1,1 @@
-Sitemap: https://cvless.netlify.app/sitemap.xml
+Sitemap: patrickgrenning.com/sitemap.xml
